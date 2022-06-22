@@ -12,7 +12,7 @@ Im not really sure how i am going to do it, but with my market experience I am g
 
 
 
-# Some Data Dictionary Items a Gen Stuff to know about investing, it would behoove you to learn this stuff !
+# Some Data Dictionary Items Gen Stuff to know about investing, it would behoove you to learn this stuff !
 
 Simple Moving Average (SMA): Average of the price of stock for a set period of time, in our case we have used a simple moving average of 5,10,15 and 30 days.
 
