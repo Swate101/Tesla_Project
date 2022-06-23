@@ -22,3 +22,28 @@ Relative Strength Index (RSI): A momentum indicator used in technical analysis t
 
 Moving average convergence divergence (MACD) is a trend-following momentum indicator that shows the relationship between two moving averages of a security’s price. The MACD is calculated by subtracting the 26-period exponential moving average (EMA) from the 12-period EMA. Similar to RSI, MACD triggers technical signals when it crosses above (to buy) or below (to sell) its signal line.
 
+# Also, for you History buffs it is time to meet the Greeks !!
+I will introduce my friends ---->
+
+
+Delta, I help you gauge the likelihood an option will expire in-the-money (ITM), meaning its strike price is below (for calls) or above (for puts) the underlying security’s market price.
+
+
+
+Gamma, I can help you estimate how much the Delta might change if the stock price changes.
+
+
+
+Theta, I can help you measure how much value an option might lose each day as it approaches expiration.
+
+
+
+Vega, I can help you understand how sensitive an option might be to large price swings in the underlying stock.
+
+
+
+
+Rho, I can help you simulate the effect of interest rate changes on an option.
+
+
+## We are the Greeks, "nice to meet you !".
